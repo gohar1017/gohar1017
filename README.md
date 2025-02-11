@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gohar1017
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on Data Analyst pathway
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate with backend developers for web to kickstart.
 - 📫 How to reach me : you can get my projects and my work on my Profile of Github
 
 <!---
